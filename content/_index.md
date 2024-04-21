@@ -77,7 +77,7 @@ sections:
           description: |2-
 
               * Head of Research Laboratory, Biology Study Program, Faculty of Applied Science and Technology (FAST)
-              * Served as advisor for UAD Biology students to win the Favorite Champion in the 34th National Student Scientific Week (PIMNAS), at the University of North Sumatra
+              * Served as advisor for UAD Biology students who won the Favorite Champion in the 34th National Student Scientific Week (PIMNAS), at the University of North Sumatra
              
     design:
       columns: '2'
