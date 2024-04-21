@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Human Biology
+    - course: Ph.D. in Human Biology
       institution: Jichi Medical University
       year: 2017
     - course: M.Si. in Chemistry
