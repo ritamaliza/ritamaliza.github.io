@@ -102,13 +102,13 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=tm3PkaIAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ritamaliza
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ritamaliza
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Rita Maliza, Ph.D., born in Tembilahan, Riau. She completed her B.Sc. in Chemistry at Andalas University in 2007 and her master's with Summa Cum Laude in 2011 at the same institution. In 2012, she received a DAAD scholarship for a student exchange at Kassel University, Germany. She earned her Ph.D. in Human Biology from Jichi Medical University, Japan in 2013, supported by the Hashiya and Murayama Foundations. Since 2022, Dr. Maliza has been a faculty member at Biology Department of Andalas University, specializing in Molecular Endocrinology.
 {style="text-align: justify;"}
