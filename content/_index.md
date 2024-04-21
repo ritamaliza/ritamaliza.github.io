@@ -87,7 +87,10 @@ sections:
           date_start: '2009-09-01'
           date_end: '2013-03-01''
           description: |2-
-                     
+            Responsibilities include:
+
+              * Research
+
     design:
       columns: '2'
   - block: accomplishments
