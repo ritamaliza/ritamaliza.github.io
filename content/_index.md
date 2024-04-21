@@ -104,7 +104,7 @@ sections:
           url: ''
         - certificate_url: 
           date_start: '2021-01-01'
-          description: .
+          description: ''
           icon: edx
           organization: Biotechnology Study Program, Universitas Gadjah Mada
           organization_url: 
