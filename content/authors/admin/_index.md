@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Rita Maliza
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rita
+last_name: Maliza
 
 # Status emoji
 status:
@@ -17,34 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Biology Department, Andalas University, Indonesia
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Andalas University
+    url: http://biologi.fmipa.unand.ac.id/en/staf-2/teaching-staffs-of-master-study-program/384-rita-maliza-s2
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Molecular Endocrinology
+  - Histology and Cell Biology
+  - Molecular Biology
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Human Biology
+      institution: Jichi Medical University
+      year: 2017
+    - course: M.Si. in Chemistry
+      institution: Andalas University
+      year: 2011
+    - course: S.Si. in Chemistry
+      institution: Andalas University
+      year: 2007
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
