@@ -78,7 +78,16 @@ sections:
 
               * Head of Research Laboratory, Biology Study Program, Faculty of Applied Science and Technology (FAST)
               * Served as advisor for UAD Biology students who won the Favorite Champion in the 34th National Student Scientific Week (PIMNAS), at the University of North Sumatra
-             
+    
+    - title: Research Assistant
+          company: Biomedical Laboratory, Faculty of Medicine, Andalas University
+          company_url: ''
+          company_logo: Logo_Unand
+          location: Padang
+          date_start: '2009-09-01'
+          date_end: '2013-03-01''
+          description: |2-
+                     
     design:
       columns: '2'
   - block: accomplishments
