@@ -100,23 +100,23 @@ sections:
           icon: coursera
           organization: L'Oréal Indonesia
           organization_url: 
-          title: Finalist - 2023 For Women In Science National Program.
+          title: 'Finalist - 2023 For Women In Science National Program'
           url: ''
         - certificate_url: 
           date_start: '2021-01-01'
-          description: Best Oral Presenter, National Seminar of Biotechnology VII (2021).
+          description: .
           icon: edx
           organization: Biotechnology Study Program, Universitas Gadjah Mada
           organization_url: 
-          title: Best Poster Presenter, The 3rd Postgraduate Seminar in Pharmaceutical Sciences.
+          title: 'Best Oral Presenter, National Seminar of Biotechnology VII (2021)'
           url: 
         - certificate_url: 
-          date_end: '2020-12-21'
+          date_start: '2020-12-21'
           description: ''
           icon: datacamp
           organization: DataCamp
           organization_url: 
-          title: 'Object-Oriented Programming in R'
+          title: 'Best Poster Presenter, The 3rd Postgraduate Seminar in Pharmaceutical Sciences'
           url: ''
     design:
       columns: '2'
