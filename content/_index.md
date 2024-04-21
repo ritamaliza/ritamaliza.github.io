@@ -57,7 +57,7 @@ sections:
         - title: Assistant Professor
           company: Andalas University
           company_url: ''
-          company_logo: org-gc
+          company_logo: Logo_Unand
           location: Padang
           date_start: '2022-02-01'
           date_end: ''
