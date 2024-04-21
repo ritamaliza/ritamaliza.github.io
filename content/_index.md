@@ -94,31 +94,28 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: 
+          date_start: '2023-09-25'
           description: ''
           icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: L'Oréal Indonesia
+          organization_url: 
+          title: Finalist - 2023 For Women In Science National Program.
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
+        - certificate_url: 
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          description: Best Oral Presenter, National Seminar of Biotechnology VII (2021).
           icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
+          organization: Biotechnology Study Program, Universitas Gadjah Mada
+          organization_url: 
+          title: Best Poster Presenter, The 3rd Postgraduate Seminar in Pharmaceutical Sciences.
+          url: 
+        - certificate_url: 
           date_end: '2020-12-21'
-          date_start: '2020-07-01'
           description: ''
           icon: datacamp
           organization: DataCamp
-          organization_url: https://www.datacamp.com
+          organization_url: 
           title: 'Object-Oriented Programming in R'
           url: ''
     design:
