@@ -25,7 +25,7 @@ organizations:
     url: http://biologi.fmipa.unand.ac.id/en/staf-2/teaching-staffs-of-master-study-program/384-rita-maliza-s2
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am working on the following research topics: Regulation of cell-to-cell interaction by humoral factors in the anterior pituitary; Metabolic diseases (obesity and related diseases).
 
 # Interests to show in About widget
 interests:
