@@ -1,9 +1,9 @@
 ---
-title: Example Project
+title: Malnutrition Project
 summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Malnutrition
+date: '2023-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -16,9 +16,9 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: 
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://office2.jmbfs.org/index.php/JMBFS/article/view/10332/3521'
 url_slides: ''
 url_video: ''
 
