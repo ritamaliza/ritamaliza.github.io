@@ -74,5 +74,5 @@ social:
 highlight_name: true
 ---
 
-Rita Maliza, Ph.D., born in Tembilahan, Riau. She completed her B.Sc. in Chemistry at Andalas University in 2007, and her master's with Summa Cum Laude in 2011 at the same institution. In 2012, she received a DAAD scholarship for a student exchange at Kassel University, Germany. She earned her Ph.D. in Human Biology from Jichi Medical University, Japan in 2017, supported by the Hashiya and Murayama Foundations. Since 2022, Dr. Maliza has been a faculty member at Biology Department of Andalas University, specializing in Molecular Endocrinology.
+Rita Maliza, Ph.D., born in Tembilahan, Riau. She completed her B.Sc. in Chemistry at Andalas University in 2007, and her master's with Summa Cum Laude in 2011 at the same institution. In 2012, she received a DAAD scholarship for a student exchange at Kassel University, Germany. She earned her Ph.D. in Human Biology from Jichi Medical University, Japan in 2017, supported by the Hashiya Foundation and Murayama Foundations. Since 2022, Dr. Maliza has been a faculty member at Biology Department of Andalas University, specializing in Molecular Endocrinology.
 {style="text-align: justify;"}
