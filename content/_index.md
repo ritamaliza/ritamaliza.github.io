@@ -70,7 +70,7 @@ sections:
         - title: Lecturer
           company: Ahmad Dahlan University
           company_url: ''
-          company_logo: org-x
+          company_logo: Logo_UAD
           location: Yogyakarta
           date_start: '2017-07-01'
           date_end: '2022-01-31'
