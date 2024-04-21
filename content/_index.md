@@ -114,10 +114,10 @@ sections:
           date_start: '2020-12-21'
           description: ''
           icon: datacamp
-          organization: DataCamp
+          organization:
           organization_url: 
           title: 'Best Poster Presenter, The 3rd Postgraduate Seminar in Pharmaceutical Sciences'
-          url: ''
+          url: 'http://sdm.uad.ac.id/bo/upload_file/file/35322020_BestPosterPresenter_RM.pdf'
     design:
       columns: '2'
   - block: collection
