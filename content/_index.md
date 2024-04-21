@@ -74,7 +74,11 @@ sections:
           location: Yogyakarta
           date_start: '2017-07-01'
           date_end: '2022-01-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+
+              * Head of Research Laboratory, Biology Study Program, Faculty of Applied Science and Technology (FAST)
+              * Served as advisor for UAD Biology students to win the Favorite Champion in the 34th National Student Science Week (PIMNAS), at the University of North Sumatra
+             
     design:
       columns: '2'
   - block: accomplishments
