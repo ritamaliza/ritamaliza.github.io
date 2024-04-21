@@ -3,7 +3,7 @@
 title: 
 
 # Name pronunciation (optional)
-name_pronunciation: Rita Maliza
+name_pronunciation: Rita Maliza, PhD
 
 # Full name (for SEO)
 first_name: Rita
